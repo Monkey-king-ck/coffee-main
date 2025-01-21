@@ -39,6 +39,36 @@ const coffees = [
     name: "Mocha",
     price: 12,
   },
+  {
+    id: 9,
+    name: "Carrot Cake",
+    price: 4,
+  },
+  {
+    id: 10,
+    name: "Cheese Cake",
+    price: 7.5,
+  },
+  {
+    id: 11,
+    name: "Chocolate Cake",
+    price: 5,
+  },
+  {
+    id: 12, 
+    name: "Coffee Walnut Cake",
+    price: 6,
+  },
+  {
+    id: 13, 
+    name: "Lemon Drizzle Cake",
+    price: 5,
+  },
+  {
+    id: 14, 
+    name: "Tiramisu Cake",
+    price: 7,
+  }
 ]
 
 if (window.location.pathname === "/coffee-selection.html") {
